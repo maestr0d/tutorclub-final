@@ -1,0 +1,6 @@
+/*Before creating new styles consult with main stylesheet to avoid name repeats!*/
+.examplebox{
+
+width: 100%;
+height:100px; 
+background-color: white;}
